@@ -57,6 +57,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Starbound](https://playstarbound.com/) - Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
 - [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
 - [Minit](https://www.devolverdigital.com/games/minit) - With a minimalistic design (only two colors palette). Minit is an adventure where each exploration journey is limited to 60 seconds.
+- [Chained Echoes](https://www.chainedechoes.com/) - A story-driven RPG with 16-bit visuals and turn-based combat. Rich narrative and expansive world.
+- [Moonstone Island](https://store.steampowered.com/app/1658150/Moonstone_Island/) - Set on floating islands, blending life sim, creature collecting and alchemy.
+- [Fields of Mistria](https://fieldsofmistria.com/) - A life sim and farming that mixes cozy farming mechanics with magic, relationships, and exploration in a colorful fantasy world.
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
