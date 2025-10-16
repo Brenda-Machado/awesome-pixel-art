@@ -78,8 +78,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 ### Hubs
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
-- [Pixelation](http://pixelation.org/)
+- [Lospec](https://lospec.com/)
 - [Pixel Joint](http://pixeljoint.com/)
+- [Pixelrepo](https://pixelrepo.com/)
 
 ## Tools
 
@@ -91,6 +92,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 - [rx](https://rx.cloudhead.io/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
 - [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
+- [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 
 ### Miscellaneous
 - [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
