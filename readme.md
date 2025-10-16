@@ -81,9 +81,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 ### Hubs
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
-- [Lospec](https://lospec.com/)
 - [Pixel Joint](http://pixeljoint.com/)
 - [Pixelrepo](https://pixelrepo.com/)
+- [Lospec](https://lospec.com/)
 
 ## Tools
 
